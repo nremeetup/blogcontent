@@ -1,0 +1,12 @@
+baseURL = "https://nremeetup.net"
+languageCode = "en-us"
+title = "NRE Meetup"
+
+theme = "jeffprod"
+
+[permalinks]
+    post = "/:year/:filename"
+
+[taxonomies]
+    tag = "tags"
+    archive = "archives"
