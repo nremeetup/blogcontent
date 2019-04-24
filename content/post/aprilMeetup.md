@@ -28,6 +28,14 @@ Super short write-up but thanks again to everyone that came along! From left to 
 
 ![April_2019](/img/april2019.jpg)
 
+## Useful Links
+
+We spoke about:
+
+- [NRE Labs](https://labs.networkreliability.engineering)
+- [Network Bootstrap ZTP](https://github.com/networkbootstrap/ztpmanager)
+
+
 Until the next time, in the name of reliability we stand!
 
 David
